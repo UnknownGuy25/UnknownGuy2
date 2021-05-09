@@ -1,5 +1,4 @@
-### Hi there 👋
-my name is Ayush sharma
+### Hi there 👋, my name is Ayush sharma
 #### Freelance web designer 
 Ayush Sharma has worked in different domains such as CMS web designing, Social media marketing, blogging, Graphic designing, not a photoshop expert kind of thing, and AR development. He is among the Top 6 students whose articles got featured in college business magazines. Along with these things no doubt he is an attentive learner. 
 
@@ -9,8 +8,8 @@ Ayush Vishwakarma is pursuing his bachelor’s in commerce from Lucknow Christia
 Skills: HTML / CSS / PHP 
 
 - 🔭 I’m currently working on this page. Theayushsharma.in 
-- 🌱 I’m currently learning Phython and Adobe premier pro 
-- 💬 Ask me about MARKTING AND DESIGNING 
+- 🌱 I’m currently learning Python and Adobe premiere pro 
+- 💬 Ask me about MARKETING AND DESIGNING 
 - 📫 How to reach me: businessads25@gmail.com 
 
 
